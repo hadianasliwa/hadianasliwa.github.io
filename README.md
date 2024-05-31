@@ -39,14 +39,14 @@
 ### Text-Crawler (extracting text from websites)	
 [Publication](https://github.com/hadianasliwa/text-crawler)
 
-Python script to go over webpages and scrapte/extract all text from the website
+Python script to go over webpages and scrape/extract all text from the website
 
 <img src="assets/img/Gemini_Generated_crawler.jpeg" width="500" height="300">
 
 ### Naive Bayes for text classification from scratch
 [Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/hadianasliwa/naive-bayes-for-word-classification-from-scrach))
 
-While reading about **Naive Bayes** method, I wanted to learn more so I implemented the method from Scarch on **Python**
+While reading about **Naive Bayes** method, I wanted to learn more so I implemented the technique from Scarch on **Python**
 
 <img src="assets/img/Gemini_Generated_bayes.jpeg" width="500" height="300">
 
