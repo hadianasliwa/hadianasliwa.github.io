@@ -37,11 +37,11 @@
 
 ## Projects
 ### Text-Crawler (extracting text from websites)	
-[Publication](https://github.com/hadianasliwa/text-crawler)
+[Publication](https://github.com/hadianasliwa/text-crawler =500x500)
 
 Python script to go over webpages and scrapte/extract all text from the website
 
-![Text Crawler](assets/img/Gemini_Generated_crawler.jpeg)
+![Text Crawler](assets/img/Gemini_Generated_crawler.jpeg =500x500)
 
 ### Naive Bayes for text classification from scratch
 [Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/hadianasliwa/naive-bayes-for-word-classification-from-scrach))
