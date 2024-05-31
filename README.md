@@ -23,16 +23,16 @@
 - Automatic monthly report for “Parts team” to monitor vehicle parts
 
 **Korek Telecom | VAS Planning Specialist	(01/2023 – 09/2023)**
-Led the integration of DCB service between Google Play & Korek tel.
-Designed and developed services to handle business and marketing requests on VAS systems.
-Optimization of traffic on the VAS system through analysis and reduction of repetitive unnecessary requests
+- Led the integration of DCB service between Google Play & Korek tel.
+- Designed and developed services to handle business and marketing requests on VAS systems.
+- Optimization of traffic on the VAS system through analysis and reduction of repetitive unnecessary requests
 
 **Korek Telecom | VAS Planning Engineer	(12/2020 – 01/2023)**
-Promoted to VAS Planning Specialist.
-Using bash scripts for workarounds.
-Bash & Python scripts for minimizing repetitive tasks
-Building USSD menus
-Maintenance of Linux servers
+- Promoted to VAS Planning Specialist.
+- Using bash scripts for workarounds.
+- Bash & Python scripts for minimizing repetitive tasks
+- Building USSD menus
+- Maintenance of Linux servers
 
 
 ## Projects
