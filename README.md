@@ -41,8 +41,7 @@
 
 Python script to go over webpages and scrapte/extract all text from the website
 
-![Text Crawler](assets/img/Gemini_Generated_crawler.jpeg =250x250)
-<img src="assets/img/Gemini_Generated_crawler.jpeg" width="100" height="100">
+<img src="assets/img/Gemini_Generated_crawler.jpeg" width="500" height="500">
 
 ### Naive Bayes for text classification from scratch
 [Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/hadianasliwa/naive-bayes-for-word-classification-from-scrach))
