@@ -51,7 +51,7 @@ While reading about **Naive Bayes** method, I wanted to learn more so I implemen
 <img src="assets/img/Gemini_Generated_bayes.jpeg" width="500" height="300">
 
 ## Spoken Languages
-- Assyrian (native)   |    Kurdish (proficient)   |    Arabic (proficient)   |    English (proficient)
+- Assyrian    |    Kurdish    |    Arabic    |    English 
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/hadiana-sliwa/)
